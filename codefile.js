@@ -1,2 +1,2 @@
-let mail="tarun123@gmail.com";
-let pass="123@";
+let user.name="fw24-269"
+let user.password="Tarun@269"
